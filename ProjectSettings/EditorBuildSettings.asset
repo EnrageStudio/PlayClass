@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Conteo.unity
     guid: 9ebc3db36f2963646a38a3620fe42040
+  - enabled: 1
+    path: Assets/Scenes/Comparacion.unity
+    guid: 03830c889ce3a4947bb847202b3b10d8
+  - enabled: 1
+    path: Assets/Scenes/Emparejamiento.unity
+    guid: 4ba2787424da99a4e99d8bb610830cd6
   m_configObjects: {}
